@@ -9,6 +9,8 @@ require (
 )
 
 require (
-	github.com/badoux/checkmail v1.2.4 // indirect
-	golang.org/x/crypto v0.18.0 // indirect
+	github.com/badoux/checkmail v1.2.4
+	golang.org/x/crypto v0.18.0
 )
+
+require github.com/dgrijalva/jwt-go v3.2.0+incompatible
